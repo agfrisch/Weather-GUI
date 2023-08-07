@@ -2,7 +2,7 @@
     Name: weather_gui_3.py
     Author: Adam Frisch
     Created: 4/21/2022
-    Purpose: OOP Tkinter GUI to get and display OpenWeatherMap data
+    Purpose: OOP Tkinter GUI to get and display OpenWeatherMap data based on user input.
 
 """
 import weather_utils
